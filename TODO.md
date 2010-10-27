@@ -1,0 +1,2 @@
+- make relative links absolute and force HTTPS if current window.location is not https (which is ensured because safari does not load the extention on HTTPS sites)
+- detect forms and do the same as with links
