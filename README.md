@@ -28,7 +28,10 @@ Known Problems
 Acknowledgements 
 ----------------
 
+Adapted for Safari by [toto](http://github.com/mrtoto)
+
 This Safari Extention is based upon the "Facebook Secure Connection (Force Https SSL)" user script by Merimac (v1.0.11), which can be found [here](http://userscripts.org/scripts/show/86392).
+ 
  
 License
 ------
