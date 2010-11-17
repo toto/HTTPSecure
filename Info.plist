@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Thomas Kollbach</string>
+	<string>toto</string>
 	<key>CFBundleDisplayName</key>
-	<string>HTTPSecure</string>
+	<string>HTTPSecureSecure</string>
 	<key>CFBundleIdentifier</key>
-	<string>io.bits.https</string>
+	<string>io.bits.httpsecure</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -23,14 +23,18 @@
 	<dict>
 		<key>Scripts</key>
 		<dict>
-			<key>End</key>
+			<key>Start</key>
 			<array>
 				<string>httpsecure.js</string>
 			</array>
 		</dict>
+		<key>Whitelist</key>
+		<array>
+			<string>http*://*.facebook.com/*</string>
+		</array>
 	</dict>
 	<key>Description</key>
-	<string>Replaces all of a sites internal links with the HTTPS variant.</string>
+	<string>Replaces all of a sites internal links with the HTTPS variant. </string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -44,6 +48,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>http://https.bits.io</string>
+	<string>https://github.com/toto/HTTPSecure</string>
 </dict>
 </plist>
