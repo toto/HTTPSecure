@@ -1,6 +1,11 @@
 HTTPSecure Safari Extention
 ===========
 
+[Download](https://github.com/downloads/toto/HTTPSecure/HTTPSecure.safariextz)
+-----
+
+About
+----
 A simple Safari extension that secures Facebook by using *https* instead of *http*. 
 
 This protects agains you against many nasty things that anybody with a bit of knowlege in network securtiy (or [Firesheep](http://codebutler.github.com/firesheep/)) can do.
